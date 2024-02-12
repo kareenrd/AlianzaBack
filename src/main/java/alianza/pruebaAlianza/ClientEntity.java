@@ -1,10 +1,8 @@
-package alianza.AlianzaBack;
+package alianza.pruebaAlianza;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import jakarta.persistence.*;
-import jakarta.validation.constraints.*;
 import lombok.Data;
-import lombok.NonNull;
 
 import java.util.Date;
 

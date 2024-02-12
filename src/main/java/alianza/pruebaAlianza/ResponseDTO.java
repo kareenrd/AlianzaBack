@@ -1,4 +1,4 @@
-package alianza.AlianzaBack;
+package alianza.pruebaAlianza;
 
 import lombok.Data;
 
